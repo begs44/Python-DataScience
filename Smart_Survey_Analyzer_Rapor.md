@@ -3,7 +3,7 @@
 ## 1. Giriş
 
 ### Projenin Amacı
-Bu rapor, anket verilerinin otomasyon aracılığıyla nasıl analiz edildiğini ve yazılımsal döngülerin veri madenciliğindeki stratejik önemini teknik bir perspektifle ele almaktadır. Proje, rastgele üretilen ham verinin anlamlı bir istatistiksel özete dönüştürülme sürecini kapsamaktadır.
+Bu projenin amacı, anket verilerini otomasyon ile analiz ederek ham verileri anlamlı ve istatistiksel sonuçlara dönüştürmektir. Ayrıca veri toplama, temizleme ve sınıflandırma süreçlerinde döngülerin rolünü göstermeyi hedefler.
 
 ## 2. Döngülerin Veri Analizindeki Önemi
 Veri analizi sürecinde binlerce hatta milyonlarca satır veriyle karşılaşılır. Döngüler, bu verileri tek tek manuel işlemek yerine, belirlenen bir mantık çerçevesinde saniyeler içinde taramamıza olanak tanır. Bu projede döngüler; veriyi toplama (generation), filtreleme (cleaning) ve sınıflandırma (classification) aşamalarının temel motoru görevini üstlenmiştir.
